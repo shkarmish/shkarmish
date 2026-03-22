@@ -24,7 +24,7 @@ I continuously strive to **learn, innovate, and deliver projects** that make a r
 ## 💻 Featured Projects
 
 - **Portfolio Website**  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
   Responsive personal portfolio with interactive UI and modern design.
 
 - **E-commerce Web App**  

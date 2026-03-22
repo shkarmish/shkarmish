@@ -2,9 +2,8 @@
 ## 🚀 Full Stack Web Developer | Laravel & React Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1F2937&center=true&vCenter=true&width=500&lines=Hi%20there!%20I'm%20Armish;Building%20clean%20apps%20with%20PHP,%20Laravel%20%26%20React;Best%20Practices%20%26%20Scalable%20Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=320&lines=Hi%20I'm%20Armish;Full%20Stack%20Developer;PHP%20%7C%20Laravel%20%7C%20React;Clean%20%26%20Scalable%20Apps" />
 </p>
-
 ---
 
 I am a passionate **full stack web developer** with expertise in **HTML, CSS, JavaScript, React, PHP, Laravel, and AJAX**. I specialize in building **scalable, high-performance web applications**, focusing on **clean code, responsive design, and modern best practices**. With a **BBA background**, I combine technical skills with business insight to develop solutions that are both **efficient and impactful**.  

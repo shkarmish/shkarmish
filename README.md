@@ -2,7 +2,7 @@
 ## 🚀 Full Stack Web Developer | Laravel & React Specialist
 
 <p align="center">
-  <img src="" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1F2937&center=true&vCenter=true&width=500&lines=Hi%20there!%20I'm%20Armish;Building%20clean%20apps%20with%20PHP,%20Laravel%20%26%20React;Best%20Practices%20%26%20Scalable%20Apps" />
 </p>
 
 ---

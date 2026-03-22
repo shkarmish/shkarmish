@@ -24,8 +24,8 @@ I continuously strive to **learn, innovate, and deliver projects** that make a r
 ## 💻 Featured Projects
 
 - **Portfolio Website**  
-  ![PHP] <a href="http://cars-project.infinityfreeapp.com/" target=""_blank>https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white</a>  
-  Responsive personal portfolio with interactive UI and modern design.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+  [Visit Website](http://cars-project.infinityfreeapp.com/){:target="_blank"} – Responsive personal portfolio with interactive UI and modern design.
 
 - **E-commerce Web App**  
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  

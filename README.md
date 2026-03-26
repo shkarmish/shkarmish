@@ -1,5 +1,5 @@
 [# Hi 👋, I'm Armish
-## 🚀 Full Stack Web Developer | Laravel Developer
+## 🚀 Full Stack Web Developer | Laravel
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=320&lines=Hi%20I'm%20Armish;Full%20Stack%20Developer;PHP%20%7C%20Laravel;Clean%20%26%20Scalable%20Apps" />

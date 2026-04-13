@@ -42,7 +42,7 @@ I continuously strive to **learn, innovate, and deliver projects** that make a r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shkarmish&show_icons=true&theme=tokyonight&hide_border=true" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shkarmish&theme=tokyonight&hide_border=true" />
 </p>
 

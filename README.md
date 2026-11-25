@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shkarmish/shkarmish/main/banner-v2.svg" alt="Sheikh Muhammad Armish, Full Stack Web Developer, AI-Assisted Development" width="100%" />
+<img src="https://raw.githubusercontent.com/shkarmish/shkarmish/main/banner-v3.svg" alt="Sheikh Muhammad Armish, Full Stack Web Developer, AI-Assisted Development" width="100%" />
 
 **PHP · Laravel · React · Next.js · WordPress**
 

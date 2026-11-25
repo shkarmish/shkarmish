@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shkarmish/shkarmish/main/banner-v3.svg" alt="Sheikh Muhammad Armish, Full Stack Web Developer, AI-Assisted Development" width="100%" />
+<img src="https://raw.githubusercontent.com/shkarmish/shkarmish/main/banner-v4.svg" alt="Sheikh Muhammad Armish, Full Stack Web Developer" width="100%" />
 
 **PHP · Laravel · React · Next.js · WordPress**
 
@@ -17,10 +17,10 @@ Full Stack Web Developer from Lahore, Pakistan, with **4+ years** of experience 
 
 I design the architecture, write and review the code, and test every release. I use AI tools as development assistants to deliver faster and raise team productivity.
 
-- 💼 Web Developer (AI-Assisted Development) at [Metaviz](https://metaviz.io/), April 2026 to present
+- 💼 Web Developer at [Metaviz](https://metaviz.io/), April 2026 to present
 - ⚡ Building with **PHP, Next.js and React**, plus **WordPress and WooCommerce** for client sites
 - 🧱 Working on **Enlorix**, a multi-tenant website platform (Next.js, Cloudflare Workers, D1, Supabase)
-- 🤖 AI-assisted workflow with **Claude, ChatGPT, Codex, Grok and Antigravity**
+- 🤖 Using **Claude, ChatGPT, Codex, Grok and Antigravity** as assistants
 - 🎓 Certification in IT & Training, College of International Skills Development (CISD)
 
 ## Tech stack
@@ -37,7 +37,7 @@ I design the architecture, write and review the code, and test every release. I 
 
 ## Experience
 
-**Web Developer (AI-Assisted Development), [Metaviz](https://metaviz.io/)** · April 2026 to present
+**Web Developer, [Metaviz](https://metaviz.io/)** · April 2026 to present
 - Build and ship PHP, Next.js and React web applications, client websites and platform features.
 - Built the Media Manager (folder upload, in-browser resizing, trash with restore, bulk download, video streaming) and the Emails area (Outbox, Inbox, Compose with live preview, templates, form submissions) for Enlorix.
 - Build WordPress and WooCommerce sites and own quality through end-to-end testing on live environments.

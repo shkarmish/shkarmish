@@ -1,72 +1,67 @@
-# Hi 👋, I'm Armish
-## 🚀 Full Stack Web Developer
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=400&lines=Hi%20I'm%20Armish;Full%20Stack%20Developer;PHP%20%7C%20Laravel%20%7C%20React;Clean%20%26%20Scalable%20Apps" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b1f3a,100:00c2ff&text=Sheikh%20Muhammad%20Armish&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20AI-Assisted%20Development&descAlignY=58&descSize=17" alt="Sheikh Muhammad Armish, Full Stack Web Developer" />
 
----
+**PHP · Laravel · React · Next.js · WordPress**
 
-I am a passionate **full stack web developer** with expertise in **HTML, CSS, JavaScript, React, PHP, Laravel, and AJAX**. I specialize in building **scalable, high-performance web applications**, including **modern frontend interfaces with React** and **robust backend systems with Laravel**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shkarmish-dev-m8mt20u.gamma.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shkarmish/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shkarmish@gmail.com)
+[![Metaviz](https://img.shields.io/badge/Working%20at-Metaviz-0b1f3a?style=for-the-badge)](https://metaviz.io/)
 
-With a **BBA background**, I combine technical skills with business insight to develop solutions that are both **efficient and impactful**.
+</div>
 
-I continuously strive to **learn, innovate, and deliver projects** that make a real-world impact, creating **user-friendly experiences** and **clean, maintainable code**.
+## About me
 
----
+Full Stack Web Developer from Lahore, Pakistan, with **4+ years** of experience building secure, scalable and high-performance web applications.
 
-## 🛠️ Tech Stack
+I design the architecture, write and review the code, and test every release. I use AI tools as development assistants to deliver faster and raise team productivity.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,git,github" />
-</p>
+- 💼 Web Developer (AI-Assisted Development) at [Metaviz](https://metaviz.io/), April 2026 to present
+- ⚡ Building with **PHP, Next.js and React**, plus **WordPress and WooCommerce** for client sites
+- 🧱 Working on **Enlorix**, a multi-tenant website platform (Next.js, Cloudflare Workers, D1, Supabase)
+- 🤖 AI-assisted workflow with **Claude, ChatGPT, Codex, Grok and Antigravity**
+- 🎓 BBA, University of Punjab
 
----
+## Tech stack
 
-## 💻 Featured Projects
+<div align="center">
 
-- **Portfolio Website**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
- [Visit Website](http://cars-project.infinityfreeapp.com/) – Responsive personal portfolio with interactive UI and modern design.
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,vue,tailwind,bootstrap,wordpress&perline=10" alt="Languages and frameworks" />
 
-- **E-commerce Web App**  
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-  Online store built with Laravel, dynamic product management & checkout system.
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,docker,cloudflare,git,github,vscode,cursor&perline=10" alt="Databases and tools" />
 
-- **AJAX CRUD App**  
-  ![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge)  
-  Interactive web application using AJAX for seamless backend communication.
+</div>
 
----
+**AI tools:** ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square) ![Grok](https://img.shields.io/badge/Grok-1DA1F2?style=flat-square) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square) ![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square)
 
-## 📊 GitHub Stats
+## Experience
 
-<p align="center">
+**Web Developer (AI-Assisted Development), [Metaviz](https://metaviz.io/)** · April 2026 to present
+- Build and ship PHP, Next.js and React web applications, client websites and platform features.
+- Built the Media Manager (folder upload, in-browser resizing, trash with restore, bulk download, video streaming) and the Emails area (Outbox, Inbox, Compose with live preview, templates, form submissions) for Enlorix.
+- Build WordPress and WooCommerce sites and own quality through end-to-end testing on live environments.
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shkarmish&theme=tokyonight&hide_border=true" />
-</p>
+**Web Developer, [Maavra Technologies](http://www.maavratech.com/)** · May 2022 to April 2026
+- Designed, built and maintained responsive websites, integrated front-end with back-end systems, and improved performance by optimizing queries, caching and assets.
 
----
+## Featured projects
 
-## 🌐 Connect With Me
+| Project | Stack | What it does |
+| --- | --- | --- |
+| **[Dealer eProcess](https://www.dealereprocess.com/)** (USA) | PHP, Laravel, React.js | Automotive dealership websites with SRP and VDP modules, payment gateways and scheduling integrations. |
+| **[Laravel E-Commerce](https://github.com/shkarmish/my-laravel-project)** | Laravel, AJAX, MySQL | Product management with CRUD, AJAX search and pagination, cart and checkout. |
+| **[Task Manager](https://github.com/shkarmish/task-manager-crud-project)** | Laravel 12, Tailwind CSS, MySQL | Secure auth with Laravel Breeze, user-isolated tasks, status tracking with color-coded badges. |
+| **[Car Dealership Website](https://github.com/shkarmish/cars_website)** | PHP, MySQL, AJAX | Dynamic inventory with pagination, detail pages, form validation and duplicate prevention. |
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shkarmish/"><img src="https://img.shields.io/badge/LinkedIn-Armish-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/shkarmish"><img src="https://img.shields.io/badge/GitHub-Armish-181717?style=for-the-badge&logo=github" /></a>
-</p>
+## Let's connect
 
----
+I am open to working with teams that value fast, clean and well-tested delivery.
 
-## 📈 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shkarmish&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+📧 [shkarmish@gmail.com](mailto:shkarmish@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/shkarmish/) · 🌐 [Portfolio](https://shkarmish-dev-m8mt20u.gamma.site/)
 
----
+<div align="center">
 
-## 💡 Motivational Quote
-> "Consistency and discipline turn effort into lasting success."
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:00c2ff,100:0b1f3a" alt="" />
 
----
-
-⭐️ From Armish
+</div>

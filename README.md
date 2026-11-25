@@ -21,7 +21,7 @@ I design the architecture, write and review the code, and test every release. I 
 - ⚡ Building with **PHP, Next.js and React**, plus **WordPress and WooCommerce** for client sites
 - 🧱 Working on **Enlorix**, a multi-tenant website platform (Next.js, Cloudflare Workers, D1, Supabase)
 - 🤖 AI-assisted workflow with **Claude, ChatGPT, Codex, Grok and Antigravity**
-- 🎓 BBA, University of Punjab
+- 🎓 Certification in IT & Training, College of International Skills Development (CISD)
 
 ## Tech stack
 

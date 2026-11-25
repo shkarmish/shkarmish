@@ -40,11 +40,11 @@
 
     <!-- left: identity -->
     <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
-      <rect x="64" y="52" width="200" height="30" rx="15" fill="#00c2ff" fill-opacity="0.12" stroke="#00c2ff" stroke-opacity="0.5"/>
+      <rect x="64" y="52" width="232" height="30" rx="15" fill="#00c2ff" fill-opacity="0.12" stroke="#00c2ff" stroke-opacity="0.5"/>
       <circle cx="84" cy="67" r="5" fill="#2ee6a6">
         <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
       </circle>
-      <text x="98" y="72" font-size="13" font-weight="600" fill="#bfefff" letter-spacing="1.2">BUILDING AT METAVIZ</text>
+      <text x="98" y="72" font-size="13" font-weight="600" fill="#bfefff" letter-spacing="1.2">CLEAN · SCALABLE · TESTED</text>
 
       <text x="64" y="150" font-size="52" font-weight="800" fill="url(#name)">Sheikh Muhammad Armish</text>
       <text x="66" y="192" font-size="22" font-weight="600" fill="#d7e6ff">Full Stack Web Developer</text>

@@ -4,7 +4,7 @@
 
 **PHP · Laravel · React · Next.js · WordPress**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shkarmish-dev-m8mt20u.gamma.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shkarmish.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shkarmish/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shkarmish@gmail.com)
 [![Metaviz](https://img.shields.io/badge/Working%20at-Metaviz-0b1f3a?style=for-the-badge)](https://metaviz.io/)
@@ -58,7 +58,7 @@ I design the architecture, write and review the code, and test every release. I 
 
 I am open to working with teams that value fast, clean and well-tested delivery.
 
-📧 [shkarmish@gmail.com](mailto:shkarmish@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/shkarmish/) · 🌐 [Portfolio](https://shkarmish-dev-m8mt20u.gamma.site/)
+📧 [shkarmish@gmail.com](mailto:shkarmish@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/shkarmish/) · 🌐 [Portfolio](https://shkarmish.vercel.app/)
 
 <div align="center">
 

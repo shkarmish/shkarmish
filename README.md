@@ -62,6 +62,6 @@ I am open to working with teams that value fast, clean and well-tested delivery.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:00c2ff,100:0b1f3a" alt="" />
+<img src="https://raw.githubusercontent.com/shkarmish/shkarmish/main/footer-v1.svg" alt="Let's build something great together" width="100%" />
 
 </div>

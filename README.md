@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b1f3a,100:00c2ff&text=Sheikh%20Muhammad%20Armish&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20AI-Assisted%20Development&descAlignY=58&descSize=17" alt="Sheikh Muhammad Armish, Full Stack Web Developer" />
+<img src="https://raw.githubusercontent.com/shkarmish/shkarmish/main/banner.svg" alt="Sheikh Muhammad Armish, Full Stack Web Developer, AI-Assisted Development" width="100%" />
 
 **PHP · Laravel · React · Next.js · WordPress**
 

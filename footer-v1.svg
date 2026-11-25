@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Let's build something great together">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#0a1633"/>
+      <stop offset="1" stop-color="#0b2a4f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00c2ff"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#7fe3ff"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00c2ff" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#00c2ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#7fe3ff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="150" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="150" fill="url(#bg)"/>
+    <rect width="1200" height="150" fill="url(#grid)"/>
+    <circle cx="140" cy="140" r="200" fill="url(#glowA)">
+      <animate attributeName="cx" values="140;230;140" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1060" cy="10" r="220" fill="url(#glowB)">
+      <animate attributeName="cx" values="1060;960;1060" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="0" y="0" width="1200" height="6" fill="url(#accent)"/>
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+      <text x="600" y="70" font-size="34" font-weight="800" fill="url(#txt)">Let's build something great together</text>
+      <text x="600" y="104" font-size="16" fill="#8fb2d9" letter-spacing="1.5">CLEAN CODE  ·  FAST DELIVERY  ·  TESTED RELEASES</text>
+      <rect x="540" y="122" width="120" height="4" rx="2" fill="url(#accent)"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="148" rx="21" fill="none" stroke="#7fe3ff" stroke-opacity="0.18"/>
+</svg>

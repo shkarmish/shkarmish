@@ -49,7 +49,7 @@ I design the architecture, write and review the code, and test every release. I 
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| **[Dealer eProcess](https://www.dealereprocess.com/)** (USA) | PHP, Laravel, React.js | Automotive dealership websites with SRP and VDP modules, payment gateways and scheduling integrations. |
+| **[Dealer eProcess](https://www.dealereprocess.com/)** (USA) | PHP | Automotive dealership websites with SRP and VDP modules, payment gateways and scheduling integrations. |
 | **[Laravel E-Commerce](https://github.com/shkarmish/my-laravel-project)** | Laravel, AJAX, MySQL | Product management with CRUD, AJAX search and pagination, cart and checkout. |
 | **[Task Manager](https://github.com/shkarmish/task-manager-crud-project)** | Laravel 12, Tailwind CSS, MySQL | Secure auth with Laravel Breeze, user-isolated tasks, status tracking with color-coded badges. |
 | **[Car Dealership Website](https://github.com/shkarmish/cars_website)** | PHP, MySQL, AJAX | Dynamic inventory with pagination, detail pages, form validation and duplicate prevention. |
